@@ -33,3 +33,7 @@
 		height: 100%;
 		width: 100%;
 	}
+#colorbar {
+	position: absolute;
+	bottom: 0px;
+}
