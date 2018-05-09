@@ -1,0 +1,35 @@
+/*header {
+	background: #800;
+	color:#ffffff;
+}*/
+	a:link {
+		color: white;
+	}
+	
+	a:visited {
+		color: white;
+	}
+	
+	a:hover {
+		color:blue;
+	}
+	
+	a:active {
+		color:red;
+		
+	}
+	
+	/*img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}*/
+	body {
+		background-image: url("destiny-guida-perdere-la-luce.jpg");
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin:0px;
+		height: 100%;
+		width: 100%;
+	}
